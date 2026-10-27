@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Modern college student networking web app to discover study partners, exchange skills, join study groups, and connect across campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
